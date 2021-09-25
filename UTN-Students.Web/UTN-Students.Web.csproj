@@ -16,9 +16,5 @@
     <ProjectReference Include="..\UTNAvanzada2.Common\UTNAvanzada2.Common.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 
 </Project>
