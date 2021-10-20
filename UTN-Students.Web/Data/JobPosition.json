@@ -1,1 +1,77 @@
-[]
+[
+  {
+    "JobPositionId": 1,
+    "careerId": 2,
+    "Description": "Jr developer with Java Springboot, Git, MySQL technologies for booming fintech."
+  },
+  {
+    "JobPositionId": 2,
+    "careerId": 1,
+    "Description": "Computer security specialist with knowledge in ethical hacking and studies in related careers."
+  },
+  {
+    "JobPositionId": 3,
+    "careerId": 5,
+    "Description": "Jr developer with advanced studies in Engineering for a backend developer position."
+  },
+  {
+    "JobPositionId": 4,
+    "careerId": 3,
+    "Description": "Proactive person, committed to what we do and willing to take on interesting challenges."
+  },
+  {
+    "JobPositionId": 5,
+    "careerId": 4,
+    "Description": "Sr developer with strong knowledge in Angular and more than 5 years of experience for frontend position."
+  },
+  {
+    "JobPositionId": 6,
+    "careerId": 1,
+    "Description": "QA tester with 2 or more years of experience for remote employment."
+  },
+  {
+    "JobPositionId": 7,
+    "careerId": 4,
+    "Description": "Cybersecurity specialist for a project with a foreign client, with experience in networks, servers and microcomputers, among others."
+  },
+  {
+    "JobPositionId": 8,
+    "careerId": 3,
+    "Description": "Scrum Master in charge of acting as a facilitator for the effective operation of a software development team using agile methodology."
+  },
+  {
+    "JobPositionId": 9,
+    "careerId": 2,
+    "Description": "DevOps with at least 2 years of demonstrable experience and solid knowledge in Spanish and French."
+  },
+  {
+    "JobPositionId": 10,
+    "careerId": 5,
+    "Description": "Developer with knowledge of the following technologies: ASP.NET, .NET, Hibernate, Entity framework, MVC, NET Core, among others."
+  },
+  {
+    "JobPositionId": 11,
+    "careerId": 4,
+    "Description": "Machine learning engineering specialist with knowledge of business intelligence practice."
+  },
+  {
+    "JobPositionId": 12,
+    "careerId": 3,
+    "Description": "Data Scientist to create automated interfaces, reports and models to assist the team in decision making"
+  },
+  {
+    "JobPositionId": 13,
+    "careerId": 2,
+    "Description": "Full Stack Programmer with more than 5 years of verifiable experience to participate in projects related to PHP, MySQL and JavaScript."
+  },
+  {
+    "JobPositionId": 14,
+    "careerId": 1,
+    "Description": "Jr web developer with studies in related careers for first IT job."
+  },
+  {
+    "JobPositionId": 15,
+    "careerId": 5,
+    "Description": "Go developer with 2/3 years of proven experience in software development in Golang for remote work."
+  }
+]
