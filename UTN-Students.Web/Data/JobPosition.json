@@ -1,77 +1,117 @@
 [
   {
-    "JobPositionId": 1,
-    "careerId": 2,
-    "Description": "Jr developer with Java Springboot, Git, MySQL technologies for booming fintech."
-  },
-  {
-    "JobPositionId": 2,
+    "jobPositionId": 1,
     "careerId": 1,
-    "Description": "Computer security specialist with knowledge in ethical hacking and studies in related careers."
+    "description": "Jr naval engineer"
   },
   {
-    "JobPositionId": 3,
-    "careerId": 5,
-    "Description": "Jr developer with advanced studies in Engineering for a backend developer position."
-  },
-  {
-    "JobPositionId": 4,
-    "careerId": 3,
-    "Description": "Proactive person, committed to what we do and willing to take on interesting challenges."
-  },
-  {
-    "JobPositionId": 5,
-    "careerId": 4,
-    "Description": "Sr developer with strong knowledge in Angular and more than 5 years of experience for frontend position."
-  },
-  {
-    "JobPositionId": 6,
+    "jobPositionId": 2,
     "careerId": 1,
-    "Description": "QA tester with 2 or more years of experience for remote employment."
+    "description": "Ssr naval engineer"
   },
   {
-    "JobPositionId": 7,
-    "careerId": 4,
-    "Description": "Cybersecurity specialist for a project with a foreign client, with experience in networks, servers and microcomputers, among others."
-  },
-  {
-    "JobPositionId": 8,
-    "careerId": 3,
-    "Description": "Scrum Master in charge of acting as a facilitator for the effective operation of a software development team using agile methodology."
-  },
-  {
-    "JobPositionId": 9,
-    "careerId": 2,
-    "Description": "DevOps with at least 2 years of demonstrable experience and solid knowledge in Spanish and French."
-  },
-  {
-    "JobPositionId": 10,
-    "careerId": 5,
-    "Description": "Developer with knowledge of the following technologies: ASP.NET, .NET, Hibernate, Entity framework, MVC, NET Core, among others."
-  },
-  {
-    "JobPositionId": 11,
-    "careerId": 4,
-    "Description": "Machine learning engineering specialist with knowledge of business intelligence practice."
-  },
-  {
-    "JobPositionId": 12,
-    "careerId": 3,
-    "Description": "Data Scientist to create automated interfaces, reports and models to assist the team in decision making"
-  },
-  {
-    "JobPositionId": 13,
-    "careerId": 2,
-    "Description": "Full Stack Programmer with more than 5 years of verifiable experience to participate in projects related to PHP, MySQL and JavaScript."
-  },
-  {
-    "JobPositionId": 14,
+    "jobPositionId": 3,
     "careerId": 1,
-    "Description": "Jr web developer with studies in related careers for first IT job."
+    "description": "Sr naval engineer"
   },
   {
-    "JobPositionId": 15,
+    "jobPositionId": 4,
+    "careerId": 2,
+    "description": "Jr fisheries engineer"
+  },
+  {
+    "jobPositionId": 5,
+    "careerId": 2,
+    "description": "Ssr fisheries engineer"
+  },
+  {
+    "jobPositionId": 6,
+    "careerId": 2,
+    "description": "Sr fisheries engineer"
+  },
+  {
+    "jobPositionId": 7,
+    "careerId": 3,
+    "description": "Java Jr developer"
+  },
+  {
+    "jobPositionId": 8,
+    "careerId": 3,
+    "description": "PHP Jr developer"
+  },
+  {
+    "jobPositionId": 9,
+    "careerId": 3,
+    "description": "Ssr developer"
+  },
+  {
+    "jobPositionId": 10,
+    "careerId": 4,
+    "description": "Full Stack developer"
+  },
+  {
+    "jobPositionId": 11,
+    "careerId": 4,
+    "description": "Sr developer"
+  },
+  {
+    "jobPositionId": 12,
+    "careerId": 4,
+    "description": "Project manager"
+  },
+  {
+    "jobPositionId": 13,
+    "careerId": 4,
+    "description": "Scrum Master"
+  },
+  {
+    "jobPositionId": 14,
     "careerId": 5,
-    "Description": "Go developer with 2/3 years of proven experience in software development in Golang for remote work."
+    "description": "Jr textile operator"
+  },
+  {
+    "jobPositionId": 15,
+    "careerId": 5,
+    "description": "Textile production assistant manager"
+  },
+  {
+    "jobPositionId": 16,
+    "careerId": 5,
+    "description": "Textile design assistant"
+  },
+  {
+    "jobPositionId": 17,
+    "careerId": 5,
+    "description": "Textile production supervisor"
+  },
+  {
+    "jobPositionId": 18,
+    "careerId": 6,
+    "description": "Head of administration"
+  },
+  {
+    "jobPositionId": 19,
+    "careerId": 6,
+    "description": "Management analyst"
+  },
+  {
+    "jobPositionId": 20,
+    "careerId": 6,
+    "description": "Administration intern"
+  },
+  {
+    "jobPositionId": 21,
+    "careerId": 7,
+    "description": "Environmental management specialist"
+  },
+  {
+    "jobPositionId": 22,
+    "careerId": 7,
+    "description": "Environmental management coordinator"
+  },
+  {
+    "jobPositionId": 23,
+    "careerId": 8,
+    "description": "Received technician"
   }
 ]
